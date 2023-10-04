@@ -1,0 +1,37 @@
+body {
+    background-color: teal;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+#title {
+    font-weight: 800;
+    text-align: center;
+}
+#description {
+    text-align: center;
+    font-style: italic;
+}
+#image {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    place-items: center;
+}
+#img-caption {
+    font-style: italic;
+}
+#tribute-info {
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+}
+#bold{
+    font-weight: 600;
+}
+#below {
+    text-align: center;
+}
+#tribute-link{
+    color: gold;
+}
